@@ -1,4 +1,5 @@
 📌 Proyecto Spring Boot - API REST
+
 🚀 Descripción
 
 Este es un proyecto básico desarrollado con Spring Boot como parte de mi aprendizaje.
@@ -20,7 +21,7 @@ Maven
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/springboot-proyecto1.git
+git clone https://github.com/IVDR123/SPRING-BOOT-PROYECTO-1.git
 
 Ingresar al directorio:
 
